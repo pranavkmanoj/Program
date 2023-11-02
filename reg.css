@@ -1,0 +1,48 @@
+
+body{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	background:rgb(130,106,251);
+}
+.container{
+	
+	border:3px solid black;
+	padding:10px;
+	margin:10px;
+	background:#fff;
+}
+.container h1{
+	text-align:center;
+	font-weight:500;
+}
+
+.form .input-box{
+	width: 100%;
+	margin-top: 20px;
+}
+
+.form .input-box input{
+	border: 1px solid;
+	height:30px;
+	width:100%;
+}
+
+.form .gender{
+	cursor:pointer;
+}
+
+.form button{
+	height: 50px;
+	width:100%;
+	color:#fff;
+	background-color:rgb(130,106,251);
+	
+}
+
+tk{
+	background-color:rgb(130,106,251);
+	color:white;
+	font-size:35px;
+	text-align:center;
+}
